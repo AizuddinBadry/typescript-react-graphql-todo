@@ -6,7 +6,8 @@ This project also comes with:
 1. Global State strategy
 2. Components strict type
 3. GraphQL resolver sample
-4. Global interface
+4. GraphQL Codegen generator
+5. AirBnb eslint style
 
 ## Available Scripts
 
